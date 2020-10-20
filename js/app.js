@@ -1,12 +1,12 @@
 /**
- *
+ * 
  * Manipulating the DOM exercise.
  * Exercise programmatically builds navigation,
  * scrolls to anchors from navigation,
  * highlights section in viewport upon scrolling,
  * actives navigation links upon when section in viewport
- * button to scroll page to top,
- * Hide and show the navigationBar and
+ * Hide and show the navigation bar,
+ * button to scroll page to top and
  * sections collapsible.
  *   
  * 
